@@ -128,7 +128,7 @@ body {
 /* .dropdown {
   float: left;
   overflow: hidden;
-} */
+} 
 
 .dropdown .dropbtn {
 cursor: pointer;
@@ -165,7 +165,7 @@ margin:0;
 
 .navbar a:hover, .dropdown:hover .dropbtn, .dropbtn:focus {
   background-color: red;
-}
+} */
 
 .show {
   display: block;
@@ -173,7 +173,7 @@ margin:0;
 
 button {
   border: none;
-  background-color: #0997d3;
+  background-color: #174A5B;
   width: 150px;
   height:50px;
   color: #fff;
